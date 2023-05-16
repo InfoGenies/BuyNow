@@ -13,7 +13,7 @@ MVVM stands for Model-View-ViewModel, which is a design pattern used in software
    - [ViewModel](https://developer.android.com/topic/libraries/architecture/viewmodel) : Stores UI-related data that isn't destroyed on UI changes .
    - [Room Database](https://developer.android.com/training/data-storage/room) : Room is a library to save data in a local database .
    - [LiveData](https://developer.android.com/topic/libraries/architecture/livedata) : Data objects that notify views when the underlying database changes .
-   - [Data Binding](https://developer.android.com/topic/libraries/architecture/livedata) : It helps in declaratively binding UI elements to in our layout to data sources of our app.
+   - [View Binding](https://www.section.io/engineering-education/view-binding-in-android/) : View binding allows a developer to incorporate significant interaction in an application. This concept seeks to eliminate the findViewById keyword. Removing such boilerplate code allows developers to be more productive.
 * [Kotlin coroutines](https://developer.android.com/kotlin/coroutines) : Coroutine is a concurrency design pattern that you can use on Android to simplify code that executes asynchronously. 
 * [SDP Library](https://github.com/intuit/sdp) : An android lib that provides a new size unit - sdp (scalable dp). This size unit scales with the screen size. It can help Android developers with supporting multiple screens.
 * [Glide](https://github.com/bumptech/glide) : Glide is a fast and efficient open source media management and image loading framework for Android that wraps media decoding, memory and disk caching, and resource pooling into a simple and easy to use interface.
