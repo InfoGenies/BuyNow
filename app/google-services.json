@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1025544828773",
+    "project_id": "ecomerceappmvvm",
+    "storage_bucket": "ecomerceappmvvm.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1025544828773:android:4dc45672f537fadf6c138c",
+        "android_client_info": {
+          "package_name": "com.example.buynow_te_e_comerce_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1025544828773-61ee9703h6k49rpesscacrh14adnnan7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIpFzgr_xNNkzgcHSqoqV0FP3My48a-W8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1025544828773-61ee9703h6k49rpesscacrh14adnnan7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

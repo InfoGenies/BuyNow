@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">#DB3022</color>
+    <color name="background">#F9F9F9</color>
+    <color name="mainText">#222222</color>
+    <color name="textAd">#9B9B9B</color>
+    <color name="backgroundAd">#FFFFFFFF</color>
+    <color name="md_blue_200">#90CAF9</color>
+    <color name="filledBlack">#000</color>
+    <color name="colorAccent">#28324b</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="sale">#DB3022</color>
+
+
+</resources>
